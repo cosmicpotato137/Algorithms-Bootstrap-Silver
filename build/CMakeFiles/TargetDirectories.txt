@@ -1,3 +1,0 @@
-C:/NerdThings/VSSolutions/Algorithms Bootstrap Silver/build/CMakeFiles/Algorithms-Bootstrap-Silver.dir
-C:/NerdThings/VSSolutions/Algorithms Bootstrap Silver/build/CMakeFiles/ALL_BUILD.dir
-C:/NerdThings/VSSolutions/Algorithms Bootstrap Silver/build/CMakeFiles/ZERO_CHECK.dir
