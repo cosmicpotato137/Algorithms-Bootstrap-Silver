@@ -2,7 +2,9 @@
 
 This is a solution for the USACO 2020 US Open Contest, Silver Problem 1. Social Distancing. 
 
-# Build instructions
+# Windows build instructions
+
+Download the repository into a separate folder and open that folder in a terminal before running the following commands:
 
 ```
 mkdir build
