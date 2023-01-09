@@ -8,6 +8,5 @@ Download the repository into a separate folder and open that folder in a termina
 
 ```
 mkdir build
-cd build
 cmake -B build
 ```
